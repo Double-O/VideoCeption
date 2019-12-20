@@ -1,0 +1,165 @@
+Matching started at:  0 : 1 : 23 .
+Matching result is: 0.9992550611495972 
+
+
+Matching result inside matched part of reference video is: 0.9990281462669373
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9987656474113464
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9991554021835327
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9995865821838379
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9998578429222107
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9995214939117432
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9994825124740601
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9984446167945862
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9984637498855591
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9982073903083801
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.998123824596405
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9991604089736938
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9969998598098755
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9954236149787903
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9954347014427185
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9975565671920776
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9973523616790771
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.999677836894989
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9995996356010437
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9996132850646973
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9996223449707031
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.999701738357544
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9997116327285767
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9997708797454834
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9993588924407959
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9990032911300659
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9988511800765991
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.998613178730011
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9991055130958557
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9981416463851929
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9978258013725281
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9976258873939514
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9973949193954468
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9977706670761108
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9985697269439697
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9989338517189026
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9986793994903564
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9998956918716431
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.999964714050293
+Matching continued.
+
+
+Matching result inside matched part of reference video is: 0.9999684691429138
+Matching continued.
+
+
+Matching ended at:  0 : 2 : 4 .
